@@ -6,7 +6,7 @@
 
 ### Personal Projects:
 
-- [Dark Light](https://github.com/Agent40infinity/Dark-Light) (2021-Now)
+- [Dark Light](https://github.com/Agent40infinity/Dark-Light) (2022-Now)
 - [Bright](https://github.com/Agent40infinity/Bright) (2021-On Hold)
 
 ### Personal Custom Project Template:
