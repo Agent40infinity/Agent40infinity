@@ -4,9 +4,11 @@
 
 - [Aiden.fyi](http://aiden.fyi/)
 
-### Professional & Professional Projects:
+### Personal Projects:
 - [Pokemon Remake (4th Gen)](https://github.com/Agent40infinity/Pokemon-4th-Gen-Remake) (2022-Now)
 - [Dark Light](https://github.com/Agent40infinity/Dark-Light) (On Hold)
+
+### Professional Projects
 - Summit (2021-2022)
 - Untitled Statistics Game for CQU (2022)
 
