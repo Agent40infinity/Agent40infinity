@@ -5,7 +5,7 @@
 - [Aiden.fyi](http://aiden.fyi/)
 
 ### Professional Projects:
-- [Untitled Statistics Game for CQU] (2022)
+- Untitled Statistics Game for CQU (2022)
 
 ### Personal Projects:
 
