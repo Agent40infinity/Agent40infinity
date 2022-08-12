@@ -14,5 +14,5 @@
 - [Utilities](https://github.com/Agent40infinity/Utilities)
 
 ### Discontinued Projects:
-- [Dark Light (Legacy)](https://github.com/Agent40infinity/Dark-Light-Legacy) (2019-2021)
+- [Dark Light (Legacy)](https://github.com/Agent40infinity/Dark-Light-Legacy) (2019-2020)
 - [Infected-Blood](https://github.com/Agent40infinity/Infected-Blood) (2019)
