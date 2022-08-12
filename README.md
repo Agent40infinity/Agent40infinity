@@ -4,10 +4,13 @@
 
 - [Aiden.fyi](http://aiden.fyi/)
 
+### Professional Projects:
+- [Untitled Statistics Game for CQU] (2022)
+
 ### Personal Projects:
 
-- [Dark Light](https://github.com/Agent40infinity/Dark-Light) (2022-Now)
-- [Bright](https://github.com/Agent40infinity/Bright) (2021-On Hold)
+- [Dark Light](https://github.com/Agent40infinity/Dark-Light) (On Hold)
+- [Bright](https://github.com/Agent40infinity/Bright) (2021-Discontinued)
 
 ### Personal Custom Project Template:
 
