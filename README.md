@@ -5,8 +5,8 @@
 - [Aiden.fyi](http://aiden.fyi/)
 
 ### Personal Projects:
-- [Pokemon Remake (4th Gen)](https://github.com/Agent40infinity/Pokemon-4th-Gen-Remake) (2022-Now)
-- [Dark Light](https://github.com/Agent40infinity/Dark-Light) (On Hold)
+- [Pokemon Remake (4th Gen)](https://github.com/Agent40infinity/Pokemon-4th-Gen-Remake) (On Hold)
+- [Dark Light](https://github.com/Agent40infinity/Dark-Light) (2023 Remake)
 
 ### Professional Projects
 - [Summit](https://coolevil98.itch.io/summitbuild) (2021-2022)
