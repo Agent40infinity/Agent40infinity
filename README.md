@@ -3,7 +3,7 @@
 ### Portfolio Website:
 
 - [Aiden.fyi](http://aiden.fyi/)
-- Repository: [https://github.com/Agent40infinity/Agent40infinity.github.io](https://github.com/Agent40infinity/Agent40infinity.github.io)
+- [https://github.com/Agent40infinity/Agent40infinity.github.io](https://github.com/Agent40infinity/Agent40infinity.github.io)
 
 ### Personal Projects:
 - [Pokemon Remake (4th Gen)](https://github.com/Agent40infinity/Pokemon-4th-Gen-Remake) (On Hold)
