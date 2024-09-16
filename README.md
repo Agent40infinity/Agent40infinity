@@ -13,7 +13,7 @@ Repository:
 
 ### Professional Projects
 - [Summit](https://coolevil98.itch.io/summitbuild) (2021-2022)
-- Untitled Statistics Game for CQU (2022)
+- [Untitled Statistics Game for CQU](https://github.com/Agent40infinity/Untitled-Statistics-Project/) (2022)
 
 ### Personal Custom Project Template:
 
