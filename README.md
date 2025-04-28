@@ -1,5 +1,4 @@
 <h1 align="center">🖤 Welcome to my Portfolio 🖤</h1>   
-<h3 align="center">Game Developer | Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Agent40infinity1&label=Profile%20views&color=0e75b6&style=flat" alt="Agent40infinity" /></p> 
 
 ### Portfolio
