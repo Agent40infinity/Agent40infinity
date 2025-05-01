@@ -9,18 +9,20 @@
 
 <details open>
   <summary><h3>Portfolio</h3></summary>
-  <p><a href="http://aiden.fyi/">Aiden.fyi</a></p>
-  <p><a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a></p>
+  <p align="center"><a href="http://aiden.fyi/">Aiden.fyi</a></p>
+  <p align="center"><a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a></p>
 </details>
 
 
 <details open> 
   <summary><h3>Professional Projects</h3></summary>
-  <a href="https://github.com/Agent40infinity/Scene-Reference"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Scene-Reference&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
-  <a href="https://github.com/Agent40infinity/PairVar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=PairVar&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
-  <a href="https://github.com/Agent40infinity/Summit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Summit&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
-  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
-  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+  <p align="center">
+    <a href="https://github.com/Agent40infinity/Scene-Reference"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Scene-Reference&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+    <a href="https://github.com/Agent40infinity/PairVar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=PairVar&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+    <a href="https://github.com/Agent40infinity/Summit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Summit&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+    <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+    <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+  </p>
 </details>
 
 <details open> 
