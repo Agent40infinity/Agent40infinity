@@ -1,4 +1,4 @@
-<h1 align="center">🖤 Welcome to my Github Profile 🖤</h1>   
+<h1 align="center">🖤 Welcome to my Github Profile 🖤</h1>
 <p align="center">
   <a href="https://aiden.fyi/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faiden.fyi%2F&up_message=Up&down_message=Down&label=Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=Agent40infinity1&label=Profile%20views&color=0e75b6&style=flat" alt="Agent40infinity" />
@@ -7,18 +7,19 @@
   <a href="https://myanimelist.net/profile/Agent40"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff" /></a>
 </p>
 
-<details open> 
+<details align="center" open>
   <summary><h3>Portfolio</h3></summary>
-- <a href="http://aiden.fyi/">Aiden.fyi</a>
-- <a href="https://github.com/Agent40infinity/Agent40infinity.github.io">Repository</a>
+  <p><a href="http://aiden.fyi/">Aiden.fyi</a></p>
+  <p><a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a></p>
+
 </details>
 
 
-<details open> 
+<details align="center" open> 
   <summary><h3>Professional Projects</h3></summary>
 </details>
 
-<details open> 
+<details align="center" open> 
   <summary><h3>Projects of Interest</h3></summary>
 </details>
 
