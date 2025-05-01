@@ -45,8 +45,8 @@
 - [Infected-Blood](https://github.com/Agent40infinity/Infected-Blood) (2019)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Agent40infinity&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" height="195px"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Agent40infinity&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" height="195px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Agent40infinity&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Agent40infinity&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" />
 </p>
 </br>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
