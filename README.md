@@ -1,16 +1,25 @@
 <h1 align="center">🖤 Welcome to my Github Profile 🖤</h1>   
 <p align="center">
-<a href="https://aiden.fyi/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faiden.fyi%2F&up_message=Up&down_message=Down&label=Portfolio" /></a>
-<img src="https://komarev.com/ghpvc/?username=Agent40infinity1&label=Profile%20views&color=0e75b6&style=flat" alt="Agent40infinity" />
-<a href="https://assetstore.unity.com/publishers/75209?srsltid=AfmBOoq2fHZZ0yUtld1Se3Q7TOsYkxmFjV2vXDdxj7SL8vvpEY1qYCRC"><img src="https://img.shields.io/badge/Unity-%23232300.svg?logo=unity&logoColor=white" alt="Unity" /></a>
-<a href="https://www.linkedin.com/in/aiden-nathan-agent40/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Linkedin"/></a>
-<a href="https://myanimelist.net/profile/Agent40"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff" /></a>
+  <a href="https://aiden.fyi/"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faiden.fyi%2F&up_message=Up&down_message=Down&label=Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Agent40infinity1&label=Profile%20views&color=0e75b6&style=flat" alt="Agent40infinity" />
+  <a href="https://assetstore.unity.com/publishers/75209?srsltid=AfmBOoq2fHZZ0yUtld1Se3Q7TOsYkxmFjV2vXDdxj7SL8vvpEY1qYCRC"><img src="https://img.shields.io/badge/Unity-%23232300.svg?logo=unity&logoColor=white" alt="Unity" /></a>
+  <a href="https://www.linkedin.com/in/aiden-nathan-agent40/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Linkedin"/></a>
+  <a href="https://myanimelist.net/profile/Agent40"><img src="https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff" /></a>
 </p>
 
 <details open> 
   <summary><h3>Portfolio</h3></summary>
 - <a href="http://aiden.fyi/">Aiden.fyi</a>
 - <a href="https://github.com/Agent40infinity/Agent40infinity.github.io">Repository</a>
+</details>
+
+
+<details open> 
+  <summary><h3>Professional Projects</h3></summary>
+</details>
+
+<details open> 
+  <summary><h3>Projects of Interest</h3></summary>
 </details>
 
 ### Personal Projects:
