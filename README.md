@@ -11,12 +11,16 @@
   <summary><h3>Portfolio</h3></summary>
   <p><a href="http://aiden.fyi/">Aiden.fyi</a></p>
   <p><a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a></p>
-
 </details>
 
 
 <details align="center" open> 
   <summary><h3>Professional Projects</h3></summary>
+  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
+  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
+  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
+  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
+  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=1F222E&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
 </details>
 
 <details align="center" open> 
@@ -41,6 +45,6 @@
 - [Infected-Blood](https://github.com/Agent40infinity/Infected-Blood) (2019)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Agent40infinity&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" height="195px"/></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Agent40infinity&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" height="195px"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Agent40infinity&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" height="195px"/></p>
 </br>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
