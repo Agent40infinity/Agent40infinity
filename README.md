@@ -9,43 +9,34 @@
 
 <details open>
   <summary><h3>Portfolio</h3></summary>
-  <p align="center"><a href="http://aiden.fyi/">Aiden.fyi</a></p>
-  <p align="center"><a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a></p>
+  <p><a href="http://aiden.fyi/">Aiden.fyi</a></p>
+  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
 </details>
 
 
 <details open> 
   <summary><h3>Professional Projects</h3></summary>
-  <p align="center">
+  <p>
     <a href="https://github.com/Agent40infinity/Scene-Reference"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Scene-Reference&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
     <a href="https://github.com/Agent40infinity/PairVar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=PairVar&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
     <a href="https://github.com/Agent40infinity/Summit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Summit&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
-    <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
-    <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
   </p>
 </details>
 
 <details open> 
   <summary><h3>Projects of Interest</h3></summary>
+  <p>
+    <a href="https://github.com/Agent40infinity/Pokemon-4th-Gen-Remake"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Pokemon-4th-Gen-Remake&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+    <a href="https://github.com/Agent40infinity/Dark-Light-Legacy"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Dark-Light-Legacy&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+    <a href="https://github.com/Agent40infinity/Untitled-Statistics-Project/"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Untitled-Statistics-Project&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+    <a href="https://github.com/Agent40infinity/Bright"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Bright&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+    <a href="https://github.com/Agent40infinity/Utilities"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Utilities&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+    <a href="https://github.com/Agent40infinity/Infected-Blood"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Infected-Blood&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=8F8F8F&icon_color=58A6FF" /></a>
+  </p>
 </details>
 
-### Personal Projects:
-- [Pokemon Remake (4th Gen)](https://github.com/Agent40infinity/Pokemon-4th-Gen-Remake)
-- [Dark Light](https://github.com/Agent40infinity/Dark-Light) (2023 Remake)
-
-### Professional Projects
-- [Summit](https://coolevil98.itch.io/summitbuild) (2021-2022)
-- [Untitled Statistics Game for CQU](https://github.com/Agent40infinity/Untitled-Statistics-Project/) (2022)
-
-### Personal Custom Project Template:
-
-- [Utilities](https://github.com/Agent40infinity/Utilities)
-
-### Discontinued Projects:
-- [Bright](https://github.com/Agent40infinity/Bright) (2021)
-- [Dark Light (Legacy)](https://github.com/Agent40infinity/Dark-Light-Legacy) (2019-2020)
-- [Infected-Blood](https://github.com/Agent40infinity/Infected-Blood) (2019)
-
+</br>
+</br>
 <p>
   <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Agent40infinity&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=646464&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" />
   <img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=Agent40infinity&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" />
