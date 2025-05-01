@@ -9,7 +9,6 @@
 
 ### Portfolio
 - [Aiden.fyi](http://aiden.fyi/) 
-
 - [Repository](https://github.com/Agent40infinity/Agent40infinity.github.io)
 
 ### Personal Projects:
