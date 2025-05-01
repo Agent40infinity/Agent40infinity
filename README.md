@@ -16,11 +16,11 @@
 
 <details open> 
   <summary><h3>Professional Projects</h3></summary>
-  <a href="https://github.com/Agent40infinity/Scene-Reference"><img width="278" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Scene-Reference&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
-  <a href="https://github.com/Agent40infinity/PairVar"><img width="278" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=PairVar&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
-  <a href="https://github.com/Agent40infinity/Summit"><img width="278" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Summit&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
-  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
-  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
+  <a href="https://github.com/Agent40infinity/Scene-Reference"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Scene-Reference&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
+  <a href="https://github.com/Agent40infinity/PairVar"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=PairVar&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
+  <a href="https://github.com/Agent40infinity/Summit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Summit&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
+  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
+  <a href="https://github.com/Agent40infinity/Agent40infinity.github.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Agent40infinity&repo=Agent40infinity.github.io&show_icons=true&locale=en&layout=compact&theme=dark&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF" /></a>
 </details>
 
 <details open> 
@@ -45,8 +45,8 @@
 - [Infected-Blood](https://github.com/Agent40infinity/Infected-Blood) (2019)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Agent40infinity&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Agent40infinity&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" />
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Agent40infinity&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" />
+  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=Agent40infinity&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=4d4d4d&icon_color=58A6FF&hide_border=true" alt="Agent40infinity" />
 </p>
 </br>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
